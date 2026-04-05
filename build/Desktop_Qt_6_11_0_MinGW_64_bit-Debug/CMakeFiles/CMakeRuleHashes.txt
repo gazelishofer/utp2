@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+4a355e1e2d9723dc341ce034ee5107cb .qt/rcc/qrc_utp2_translations.cpp
+7115e6a8e619e5f0989d35d652a91c27 CMakeFiles/utp2_autogen
+7115e6a8e619e5f0989d35d652a91c27 CMakeFiles/utp2_lrelease
+ae70cfeca18426ee7c3e742017b004bc CMakeFiles/utp2_lupdate
+42b14bcc0ec205e07bdd5547c7bb766a utp2_autogen/timestamp
+487d32dad30cfdd9cb55bc6ff32ea69b utp2_ru_RU.qm

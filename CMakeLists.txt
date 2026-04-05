@@ -11,6 +11,9 @@ qt_add_executable(utp2
     mainwindow.cpp
     mainwindow.h
     mainwindow.ui
+    booking.h booking.cpp
+    client.h client.cpp
+    room.h room.cpp
 )
 
 qt_add_translations(
